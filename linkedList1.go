@@ -20,3 +20,4 @@ func main() {
 	sahil := purdue{0, 0, "who cares", false}
 	fmt.Println("Gaurav is super cool because his cool factor is: ", gaurav.cool-factor)
 	fmt.Println("Sahil is a ucla student who is has a lot of girlfriends: ", sahil.good-looking)
+}
